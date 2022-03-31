@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Play the Tic-Tac-Toe board 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[https://dan-kiss-dev-this.github.io/tic-tac-toe-sample/](https://dan-kiss-dev-this.github.io/tic-tac-toe-sample/).
 
 ## Available Scripts
 
